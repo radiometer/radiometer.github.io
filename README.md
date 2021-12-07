@@ -6,3 +6,5 @@
 
 
 [站点(github)](https://radiometer.github.io/)
+
+## 同时推到站点github和gitee
